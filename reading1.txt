@@ -1,0 +1,9 @@
+add
+			boolean prime = true;
+			for (int i = 2; i <= value / 2; i++) {
+				if (value % i = 0) {
+					prime = false;
+				}
+			}
+			return prime;
+		}
